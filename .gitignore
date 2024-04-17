@@ -1,0 +1,14 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Conda
+.env/
+conda/
+
+# Virtual Environment
+env/
+venv/
+*.pyc
+
+# Other
+.DS_Store
